@@ -108,4 +108,5 @@ public class MainTest {
         player.restoreHealth(20);
         assertEquals(player.healthRemaining(), 100);
     }
+
 }
